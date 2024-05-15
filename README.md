@@ -1,2 +1,2 @@
 # reverse_shell
-a reverse shell implementation for a network course
+reverse shell implementation for a network course
