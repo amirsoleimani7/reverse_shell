@@ -1,2 +1,2 @@
 # reverse_shell
-reverse shell implementation for a network course
+reverse shell implementation using pythonfor a network course
