@@ -1,2 +1,3 @@
 # reverse_shell
-reverse shell implementation using pythonfor a network course
+
+a reverse shell implementation using python for computer networking course
